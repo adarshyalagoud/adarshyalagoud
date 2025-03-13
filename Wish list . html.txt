@@ -1,0 +1,40 @@
+<html>
+<head>
+<title> wish list </title>
+<body>
+<ol>
+<li> I want to enjoy with my friends and famil</li>
+<li> I want to meet my friends in holidays</li>
+<li> I wnat to travel in summer season</li>
+<li> my holidays are going good </li>
+<li> because we are playing many of games</li>
+</ol>
+<img src="flight"width ="200"hieght ="400"></img><br></br>
+<table border =1>
+</table border =1>
+<caption><b>challenges and opportunities</b></caption>
+<tr>
+<td> challenges </td>
+<td>opportunities</td>
+</tr>
+<tr>
+<td> confiuson about carear choice</td>
+<td> responsibality workforce diversity</td>
+</tr>
+<tr>
+<td> given to passangers </td>
+<td> work and globalization</td>
+</tr>
+<tr>
+<td> opportunities of worker</td>
+<td> plane is take of in time</td>
+</tr>
+</table>
+</body>
+</html>
+
+
+
+
+
+
